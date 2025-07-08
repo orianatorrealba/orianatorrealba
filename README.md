@@ -20,11 +20,16 @@ Regularmente, colaboro com a equipe compartilhando conhecimento e participando d
 
 ### 🛠️ Tecnologias e Ferramentas
 
-p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="seleniumns/devicon/icons/javascript/javascript-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
-  <!-- Adicione mais ícones conforme necessário -->
-</p>
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-red?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-009688?style=for-the-badge)
 
 ---
 
