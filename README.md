@@ -20,10 +20,11 @@ Regularmente, colaboro com a equipe compartilhando conhecimento e participando d
 
 ### 🛠️ Tecnologias e Ferramentas
 
-- **Testes Automatizados:** Selenium, Robot Framework, Cypress 
-- **Testes de API:** Postman, RestAssured  
-- **Linguagens:** JavaScript
-- **Outras ferramentas:** Git, GitHub Actions, JIRA, TestRail
+p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="seleniumns/devicon/icons/javascript/javascript-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
+  <!-- Adicione mais ícones conforme necessário -->
+</p>
 
 ---
 
